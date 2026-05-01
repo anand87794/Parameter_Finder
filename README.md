@@ -37,7 +37,7 @@ Kali Linux / Any Linux distro
 
 Setup
 bash# 1. Clone the repo
-git clone https://github.com/cybermindspace/paramhunter.git
+git clone https://github.com/paramhunter.git
 cd paramhunter
 
 # 2. Install dependency
